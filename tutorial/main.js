@@ -13,5 +13,5 @@ window.onload = function () {
             Gaze X: ${data.x.toFixed(2)}
             Gaze Y: ${data.y.toFixed(2)}
         `;
-    }).begin();
+    }).begin(); //d
 };
